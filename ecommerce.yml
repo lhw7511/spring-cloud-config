@@ -1,1 +1,6 @@
-test: test
+token:
+  expiration_time: 8640
+  secret: user_token_up
+
+gateway:
+  ip: 127.0.0.1
